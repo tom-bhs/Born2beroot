@@ -1,6 +1,6 @@
 42Tomlehavre
 
-mdp utilisateur ; Tom42lehavre
+mdp superutilisateur (root) ; Tom42lehavre
 
 phrase secrete ; jesuisrouxtom
 
